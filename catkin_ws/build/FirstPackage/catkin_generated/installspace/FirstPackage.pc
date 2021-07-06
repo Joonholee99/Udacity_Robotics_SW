@@ -1,0 +1,8 @@
+prefix=/home/joonho/Udacity/catkin_ws/install
+
+Name: FirstPackage
+Description: Description of FirstPackage
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
