@@ -1,0 +1,8 @@
+prefix=/home/joonho/Udacity/catkin_ws_Local/install
+
+Name: turtlebot_gazebo
+Description: Description of turtlebot_gazebo
+Version: 2.2.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -7,4 +7,8 @@
 subdirs(gtest)
 subdirs(my_robot)
 subdirs(simple_arm)
+subdirs(turtlebot_simulator/turtlebot_gazebo)
+subdirs(turtlebot_simulator/turtlebot_simulator)
+subdirs(turtlebot_simulator/turtlebot_stage)
+subdirs(turtlebot_simulator/turtlebot_stdr)
 subdirs(ball_chaser)
